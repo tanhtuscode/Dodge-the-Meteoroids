@@ -81,7 +81,11 @@ Dodge-the-Meteoroids/
 
 ## 📄 License
 
-This project includes the Love2D license. See `spaceshipgame/build/license.txt` for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Third-Party Licenses
+
+This game is built using the LÖVE (Love2D) framework and includes various third-party libraries. For detailed licensing information about the framework and its dependencies, see `spaceshipgame/build/license.txt`.
 
 ## 🎯 Development
 
